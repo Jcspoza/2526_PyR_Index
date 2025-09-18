@@ -10,15 +10,15 @@ El programa se adaptará a los alumnos como se hizo los dos cursos anteriores. S
 
 - Dividir el tiempo de clase en 1ra parte nivel bajo -> 2da parte nivel medio
 
-## Indice de clases ( a adaptar)
+## Indice de clases (a adaptar)
 
 Se irán publicando los enlaces a las clases aqui
 
-| Link y Titulo                               | Contenido                                                                                                                   | Impartida |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------- |
-| CL0 - Presentación Taller PyR + Circuitos 0 | Requisitos de entrada / Enfoque del taller/ 1 circuito (bombilla) y 2 demos: programa y montaje básico con microControlador |           |
-| CL1 - Circuitos electrónicos 1              | Modelo de electricidad / uso de la protoboard:  bombillas, leds, resistencias, ley ohm                                      |           |
-|                                             |                                                                                                                             |           |
+| Link y Titulo                                                                                   | Contenido                                                                                                                                                                       | Impartida |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [CL0 - Presentación Taller PyR + Demos](https://github.com/Jcspoza/2526CL0_PyR_Intro/tree/main) | Requisitos de entrada / Presentaciones / Que es la robotica / Enfoque del taller/ Que herramientas vamos a necesitar/ Funcionamiento de las clases / 2 demos:                   |           |
+| CL1 - Circuitos electrónicos 0                                                                  | Modelo simple de electricidad / uso de la protoboard / Circuitos simples desde 0 :  bombillas, leds, resistencias, ley ohm -> interruptor mecanico, int. 'reed' m, magnetico IC |           |
+|                                                                                                 |                                                                                                                                                                                 |           |
 
 --------
 
@@ -33,6 +33,12 @@ Se irán publicando los enlaces a las clases aqui
     Se puede descargar una [versión en Castellano en pdf aqui](./doc/Inventa_Juegos_con_Python_4ed.pdf)
 
 * [web de referencia de Python en castellano](https://ellibrodepython.com/)
+
+#### Libros y tutoriales de Electrónica básica
+
+- Electronica para makers - Paoplo Aliverti - Ed marcombo
+
+- 
 
 #### Tutoriales Pico W en micropython
 
