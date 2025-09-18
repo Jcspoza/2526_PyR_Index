@@ -36,7 +36,7 @@ Se irán publicando los enlaces a las clases aqui
 
 #### Libros y tutoriales de Electrónica básica
 
-- Electronica para makers - Paoplo Aliverti - Ed marcombo
+- [Electronica para makers - Paoplo Aliverti - Ed marcombo](./doc/edoc.site_electronica-para-makers-paolo-aliverti.pdf)
 
 - 
 
