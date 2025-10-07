@@ -14,11 +14,12 @@ El programa se adaptará a los alumnos como se hizo los dos cursos anteriores. S
 
 Se irán publicando los enlaces a las clases aqui
 
-| Link y Titulo                                                                                   | Contenido                                                                                                                                                                       | Impartida |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [CL0 - Presentación Taller PyR + Demos](https://github.com/Jcspoza/2526CL0_PyR_Intro/tree/main) | Requisitos de entrada / Presentaciones / Que es la robotica / Enfoque del taller/ Que herramientas vamos a necesitar/ Funcionamiento de las clases / 2 demos:                   |           |
-| CL1 - Circuitos electrónicos 0                                                                  | Modelo simple de electricidad / uso de la protoboard / Circuitos simples desde 0 :  bombillas, leds, resistencias, ley ohm -> interruptor mecanico, int. 'reed' m, magnetico IC |           |
-|                                                                                                 |                                                                                                                                                                                 |           |
+| Link y Titulo                                                                                   | Contenido                                                                                                                                                                                                   | Impartida |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [CL0 - Presentación Taller PyR + Demos](https://github.com/Jcspoza/2526CL0_PyR_Intro/tree/main) | Requisitos de entrada / Presentaciones / Que es la robotica / Enfoque del taller/ Que herramientas vamos a necesitar/ Funcionamiento de las clases / 2 demos:                                               |           |
+| [CL1 - Circuitos electrónicos 0](https://github.com/Jcspoza/2526CL1_R_CircElect0)               | Modelo simple de electricidad / uso de la protoboard / Circuitos simples desde 0 :  bombillas, leds, resistencias, ley ohm -> interruptor mecánico, interruptor 'reed',  interruptor magnético con IC A3144 |           |
+| CL2- Primer programa en Python                                                                  | CL1 PTSD 3y4ESO: on line python / si da tiempo ver colab                                                                                                                                                    |           |
+| CL3- Adivina Numero en Python                                                                   | CL2 PTSD 3y4ESO : online python                                                                                                                                                                             |           |
 
 --------
 
@@ -33,6 +34,12 @@ Se irán publicando los enlaces a las clases aqui
     Se puede descargar una [versión en Castellano en pdf aqui](./doc/Inventa_Juegos_con_Python_4ed.pdf)
 
 * [web de referencia de Python en castellano](https://ellibrodepython.com/)
+
+#### IDE´s of y on line
+
+On-line : el IDE mas básico para Python : [Online Python](https://www.online-python.com/)
+
+On-line + cuaderno tipo Jupiter : [Google Colab](https://colab.research.google.com/#scrollTo=Wf5KrEb6vrkR)
 
 #### Libros y tutoriales de Electrónica básica
 
@@ -52,10 +59,10 @@ Se irán publicando los enlaces a las clases aqui
 
 ### Tabla resumen de programas básicos de test
 
-| Programa                          | Lenguaje                    | Objetivo del programa                   | Notas                                                        |
-| --------------------------------- | --------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| BlinkLedInt_bhwt                  | micropython (uPython, o uP) | Probar la tarjeta del micro controlador | Pico y PicoW tienen el led interno con direcciones distintas |
-| [Hola mundo](./P_2425CL0_hola.py) | Python                      | Primer programa de Python               | Input() no funciona con algunos IDE python en web (on line)  |
+| Programa                          | Lenguaje                    | Objetivo del programa                                                   | Notas                                                        |
+| --------------------------------- | --------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Rbhwt_BlinkLedInt                 | micropython (uPython, o uP) | Probar la tarjeta del micro controlador : Pico, PicoW, Pico 2 y Pico 2W | Pico y PicoW tienen el led interno con direcciones distintas |
+| [Hola mundo](./P_2425CL0_hola.py) | Python                      | Primer programa de Python                                               | Input() no funciona con algunos IDE python en web (on line)  |
 
 ## Enfoque: ¿Por qué Programación y Robotica simultáneamente?
 
