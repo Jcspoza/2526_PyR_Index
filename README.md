@@ -21,6 +21,7 @@ Se irán publicando los enlaces a las clases aqui
 | [CL2 Primeros pasos en Python (IDE online)](https://github.com/Jcspoza/2526CL2_1rosPasosPyNoIDEpc) | Primer y segundo programa en Python sin necesidad de instalar nada. Objetivo : ver como es programar en lo mas básico                                                                                       |           |
 | [CL3 - Entorno: IDE, configurar y probar](https://github.com/Jcspoza/2526CL3_Entorno_PyR)          | Preparación de PC para poder programar en Python y microPython con IDE Thonny + Pruebas de que todo esta OK ==> Pico 2W ( oW) cargado con micropython                                                       |           |
 | [CL4 - Escribir Adivina Numero con Bucles](https://github.com/Jcspoza/2526CL4_P_adivinaNumBuc)     | Avanzamos en el conocimiento de **Python** para ver un programa de juego completo , el mas simple posible.                                                                                                  |           |
+| CL5- R 1er proyecto: Juego Tiempo de reacción                                                      | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D                                 |           |
 
 --------
 
@@ -48,13 +49,23 @@ On-line + cuaderno tipo Jupiter : [Google Colab](https://colab.research.google.c
 
 - 
 
-#### Tutoriales Pico W en micropython
+#### Tutoriales Pico W / 2W en micropython
+
+##### De iniciación / arranque con Pico W/ 2W
 
 * [Oficial-Introduction to Raspberry Pi Pico guide](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/0)
 
 * [Oficial- Getting started with your Raspberry Pi Pico W](https://projects.raspberrypi.org/en/projects/get-started-pico-w/0)
 
-* [Buena web de tutoriales -Sunfounder](https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/for_micropython_user.html)
+##### Series de tutoriales
+
+* [Kit de Referencia Pico W-> Web de tutoriales del kit -Sunfounder](https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/for_micropython_user.html)
+
+* [Kit de referencia Pico 2 W de Sunfounder -> Web de tutoriales del kit, parecida al de Pico w ](https://docs.sunfounder.com/projects/pico-2w-kit/en/latest/)
+
+* [Excelente y muy completa 'Coder Dojo' Web de tutoriales ](https://dmccreary.github.io/learning-micropython/)
+
+* [Libro 'Get started with MicroPython on Raspberry Pi Pico'](./doc/upython_RPi_PiPico_Digital_v10.pdf)
 
 * [Otra buena web de tutoriales - Freenove ¡El tutorial incluye el nuevo Pico 2!](https://github.com/Freenove/Freenove_Super_Starter_Kit_for_Raspberry_Pi_Pico/tree/main/Python)
 
