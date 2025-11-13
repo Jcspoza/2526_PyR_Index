@@ -21,7 +21,7 @@ Se irán publicando los enlaces a las clases aqui
 | [CL2 Primeros pasos en Python (IDE online)](https://github.com/Jcspoza/2526CL2_1rosPasosPyNoIDEpc) | Primer y segundo programa en Python sin necesidad de instalar nada. Objetivo : ver como es programar en lo mas básico                                                                                       |           |
 | [CL3 - Entorno: IDE, configurar y probar](https://github.com/Jcspoza/2526CL3_Entorno_PyR)          | Preparación de PC para poder programar en Python y microPython con IDE Thonny + Pruebas de que todo esta OK ==> Pico 2W ( oW) cargado con micropython                                                       |           |
 | [CL4 - Escribir Adivina Numero con Bucles](https://github.com/Jcspoza/2526CL4_P_adivinaNumBuc)     | Avanzamos en el conocimiento de **Python** para ver un programa de juego completo , el mas simple posible.                                                                                                  |           |
-| CL5- R 1er proyecto: Juego Tiempo de reacción                                                      | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D                                 |           |
+| CL5- R 1er proyecto: Juego Tiempo de reacción                                                      | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D (método propio)                 |           |
 
 --------
 
