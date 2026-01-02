@@ -23,6 +23,7 @@ Se irán publicando los enlaces a las clases aqui
 | [CL4 - Escribir Adivina Numero con Bucles](https://github.com/Jcspoza/2526CL4_P_adivinaNumBuc)     | Avanzamos en el conocimiento de **Python** para ver un programa de juego completo , el mas simple posible.                                                                                                  |           |
 | [CL5- R 1er proyecto: Juego Tiempo de reacción](https://github.com/Jcspoza/2526_CL5_R_JTreacLCD)   | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D (método propio)                 |           |
 | [CL6 Entradas Analogicas 1er Estudio](https://github.com/Jcspoza/2526_CL6_Entradas_Analogicas1er)  |                                                                                                                                                                                                             |           |
+| [CL7 wifi 1ros pasos](https://github.com/Jcspoza/2425CL11_wifi_1rospasos)                          | Conexión a internet con Pico W - revisado: - Conectarse a WIFI : Entender y hacer el Tutorial de Sunfounder / Usar la conexión de forma muy sencilla                                                        |           |
 
 --------
 
