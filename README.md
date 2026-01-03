@@ -21,9 +21,47 @@ Se irán publicando los enlaces a las clases aqui
 | [CL2 Primeros pasos en Python (IDE online)](https://github.com/Jcspoza/2526CL2_1rosPasosPyNoIDEpc) | Primer y segundo programa en Python sin necesidad de instalar nada. Objetivo : ver como es programar en lo mas básico                                                                                       |           |
 | [CL3 - Entorno: IDE, configurar y probar](https://github.com/Jcspoza/2526CL3_Entorno_PyR)          | Preparación de PC para poder programar en Python y microPython con IDE Thonny + Pruebas de que todo esta OK ==> Pico 2W ( oW) cargado con micropython                                                       |           |
 | [CL4 - Escribir Adivina Numero con Bucles](https://github.com/Jcspoza/2526CL4_P_adivinaNumBuc)     | Avanzamos en el conocimiento de **Python** para ver un programa de juego completo , el mas simple posible.                                                                                                  |           |
-| [CL5- R 1er proyecto: Juego Tiempo de reacción](https://github.com/Jcspoza/2526_CL5_R_JTreacLCD)   | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D (método propio)                 |           |
+| [CL5- R 1er proyecto: Juego Tiempo de reacción](https://github.com/Jcspoza/2526_CL5_R_JTreacLCD)   | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D (método propio)                 | SI        |
 | [CL6 Entradas Analogicas 1er Estudio](https://github.com/Jcspoza/2526_CL6_Entradas_Analogicas1er)  |                                                                                                                                                                                                             |           |
-| [CL7 wifi 1ros pasos](https://github.com/Jcspoza/2425CL11_wifi_1rospasos)                          | Conexión a internet con Pico W - revisado: - Conectarse a WIFI : Entender y hacer el Tutorial de Sunfounder / Usar la conexión de forma muy sencilla                                                        |           |
+| [CL7 wifi 1ros pasos](https://github.com/Jcspoza/2425CL11_wifi_1rospasos)                          | Conexión a internet con Pico W - revisado: - Conectarse a WIFI : Entender y hacer el Tutorial de Sunfounder / Usar la conexión de forma muy sencilla                                                        | NO        |
+
+## Plan de trabajo Enero a Junio 2026
+
+**Propuesta:** Construir un sistema remoto basado en PICO W/2W que incluya, sensores:
+
+* Sensor digital **DHT11** temperatura y humedad
+
+* Sensor analógico de **humedad de suelo**
+  
+  que envian informacion a Adafruit IO por HTTP o MQTT
+  
+  <u>Actuadores</u>:
+
+* **Motor** bomba 
+
+* Tira **neopixel**
+  
+  que son controlados por **Adafruit IO**por **HTTP o MQTT**
+  
+  Incluye también un display **SH1106** monocromo con posibilidades graficas. Se podrá alimentar por **batería Lipo**
+
+------DIBUJO ESQUEMA DE SISTEMA DE ROBOT PROPUESTO ----
+
+## Piezas de aprendizaje pendiente
+
+Con la propuesta de trabajo en mente, hara falta a prender loas siguientes piezas
+
+| Pieza de aprendizaje                                  | Disponible de otros cursos | Dada | Dificultad |
+| ----------------------------------------------------- | -------------------------- | ---- | ---------- |
+| WIFI para conectar a Internet                         | SI - 2425 CL11             |      | Media      |
+| HTTP enviar y recibir                                 |                            |      | Alta       |
+| MQTT enviar y recibir , mejor que HTTP                |                            |      | Alta       |
+| Display SH1106                                        |                            |      | Media      |
+| Neopixel                                              |                            |      | Baja       |
+| Transistores con u-Controladortes                     |                            |      | Media      |
+| Sensores humedad suelo                                |                            |      | Media      |
+| Motores control con PICO: on/off, velocidad, CW y CCW |                            |      | media      |
+| Alimentación PICO por Lipo                            |                            |      | Baja       |
 
 --------
 
