@@ -24,6 +24,7 @@ Se irán publicando los enlaces a las clases aqui
 | [CL5- R 1er proyecto: Juego Tiempo de reacción](https://github.com/Jcspoza/2526_CL5_R_JTreacLCD)               | Robótica 1er proyecto: Juego Tiempo de reacción. Incluye: Alimentación autónoma / Manejo de interruptores : rebotes e interrupciones / Display LCD16x2 i2c / Prototipado 2D (método propio)                 | SI        |
 | [CL6 Entradas Analogicas 1er Estudio](https://github.com/Jcspoza/2526_CL6_Entradas_Analogicas1er)              |                                                                                                                                                                                                             |           |
 | [CL7 Robotica Internet primeros pasos con Pico W uy 2W](https://github.com/Jcspoza/256CL7_R_Internet1er_PICOW) | Conexión a internet con Pico W - revisado: - Conectarse a WIFI : Entender y hacer el Tutorial de Sunfounder / Usar la conexión de forma muy sencilla                                                        | NO        |
+| [CL8: uP: Uso del servicio Adafruit IO con HTTP](https://github.com/Jcspoza/2526CL8_AdafruitIO_HTTP)           |                                                                                                                                                                                                             |           |
 
 ## Plan de trabajo Enero a Junio 2026
 
